@@ -1,0 +1,1 @@
+Personal App es un proyecto académico y personal para aprender y aplicar desarrollo de software. Incluirá un bloc de notas seguro, autenticación de usuarios, una arquitectura de microservicios y un módulo de contabilidad para gestionar finanzas personales.
